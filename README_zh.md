@@ -3,7 +3,7 @@
 Tuya Iot Suite Portal -- 基座应用
 ===
 
-本应用为 Tuya Iot 研发套件 Web 管理控制台入口应用
+本应用为 Tuya Iot Suite 开发套件的 Web 管理控制台入口应用
 负责用户登录、登出、整体项目的路由与界面管理
 
 ## 目录结构
@@ -16,7 +16,7 @@ iot-suite-portal
 
 > 入口文件为src/index.tsx
 
-完成目录结构
+完整目录结构
 ```
 iot-suite-portal
 ├── README.md
